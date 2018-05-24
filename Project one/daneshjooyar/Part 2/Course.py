@@ -15,3 +15,5 @@ f = open('Course.Link','w')
 
 for i in Course:
 	f.write(i)
+	
+f.close()
